@@ -1,0 +1,30 @@
+100,Literatura,<html>A. Homero</html>
+100,Historia,<html>C. 1492</html>
+100,Geografia,<html>C. 7</html>
+100,Actualidad,<html>B. Saturno</html>
+100,Ingles,<html>A. It's sunny</html>
+100,Musica,<html>C. 8 tiempos</html>
+200,Literatura,<html>C. La rosa era muy exigente</html>
+200,Historia,<html>A. La guerra de los 100 anyos</html>
+200,Geografia,<html>B. 5</html>
+200,Actualidad,<html>C. Tarragona</html>
+200,Ingles,<html>B. Ojo</html>
+200,Musica,<html>B. Un pulso</html>
+300,Literatura,<html>B. Mary Shelley</html>
+300,Historia,<html>A. 1812</html>
+300,Geografia,<html>C. Marruecos</html>
+300,Actualidad,<html>A. Jerusalen</html>
+300,Ingles,<html>B. at</html>
+300,Musica,<html>A. Canada</html>
+400,Literatura,<html>A. La batalla de Roncevalles</html>
+400,Historia,<html>C. Cesar Augusto</html>
+400,Geografia,<html>A. Reikiavik - Islandia</html>
+400,Actualidad,<html>C. Renault</html>
+400,Ingles,<html>B. Put</html>
+400,Musica,<html>A. El arte de las musas</html>
+500,Literatura,<html>C. Siglo 16</html>
+500,Historia,<html>C. Austria</html>
+500,Geografia,<html>A. Entre China y Nepal</html>
+500,Actualidad,<html>C. Joaquin Sabina</html>
+500,Ingles,<html>B. Seguro</html>
+500,Musica,<html>A. Esferica</html>

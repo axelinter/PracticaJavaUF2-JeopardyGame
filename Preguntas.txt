@@ -1,0 +1,30 @@
+100,Literatura,<html>Quien escribio la iliada?</html>
+100,Historia,<html>En que anyo descubrio Colon America?</html>
+100,Geografia,<html>Cuantos continentes hay en la tierra?</html>
+100,Actualidad,<html>Que planeta ha investigado la nave espacial Cassini?</html>
+100,Ingles,<html>Correcta traduccion de "hace sol"</html>
+100,Musica,<html>Cuanto vale una cuadrada?</html>
+200,Literatura,<html>Porque El Principito decide abandonar su planeta?</html>
+200,Historia,<html>En que guerra participo Juana de Arco?</html>
+200,Geografia,<html>Cuantos oceanos hay en la tierra?</html>
+200,Actualidad,<html>Independentistas abrieron la campanya del referendum con un acto central en:</html>
+200,Ingles,<html>Indique cual es el significado de eye</html>
+200,Musica,<html>En musica este simbolo # significa:</html>
+300,Literatura,<html>Quien escribio Frankenstein?</html>
+300,Historia,<html>De que anyo es "la Pepa", la primera Constitucion espanyola?</html>
+300,Geografia,<html>El estrecho de Gibraltar separa Espanya de?</html>
+300,Actualidad,<html>Desde que ciudad tomara la salida el Giro de Italia 2018?</html>
+300,Ingles,<html>Rellena la siguiente frase: I have dinner ____ a restaurant.</html>
+300,Musica,<html>De que pais es Justin Bieber?</html>
+400,Literatura,<html>A que epica europea pertenece la obra "El cantar de Roldan"?</html>
+400,Historia,<html>Quien fue el primer emperador romano?</html>
+400,Geografia,<html>Que capital esta mas al norte del planeta?</html>
+400,Actualidad,<html>Que motor equipara la escuderia McLaren tras romper su relacion con Honda?</html>
+400,Ingles,<html>Indica cual es la traduccion correcta del verbo poner</html>
+400,Musica,<html>Significado de musica?</html>
+500,Literatura,<html>En que siglo nacio Miguel de Cervantes?</html>
+500,Historia,<html>En que pais nacio Adolf Hitler?</html>
+500,Geografia,<html>En que frontera se encuentra el Everest?</html>
+500,Actualidad,<html>Que cantante cancelo su concierto en Granada por una gastroenteritis?</html>
+500,Ingles,<html>Indica la traduccion de "Insurance"</html>
+500,Musica,<html>El sonido esta producido por ondas que vibran de forma:</html>

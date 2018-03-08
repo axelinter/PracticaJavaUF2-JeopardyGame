@@ -1,0 +1,30 @@
+100,Literatura,<html>A. Homero</html>,<html>B. Hesiodo</html>,<html>C. Ulises</html>
+100,Historia,<html>A. 1500</html>,<html>B. 1495</html>,<html>C. 1492</html>
+100,Geografia,<html>A. 5</html>,<html>B. 6</html>,<html>C. 7</html>
+100,Actualidad,<html>A. Jupiter</html>,<html>B. Saturno</html>,<html>C. Urano</html>
+100,Ingles,<html>A. It's sunny</html>,<html>B. It's hot</html>,<html>C. It's sun</html>
+100,Musica,<html>A. 4 tiempos</html>,<html>B. 16 tiempos</html>,<html>C. 8 tiempos</html>
+200,Literatura,<html>A. Habia mucha gente</html>,<html>B. Queria empezar de cero</html>,<html>C. La rosa era muy exigente</html>
+200,Historia,<html>A. La guerra de los 100 anyos</html>,<html>B. La guerra de los 116 anyos</html>,<html>C. La primera cruzada</html>
+200,Geografia,<html>A. 4</html>,<html>B. 5</html>,<html>C. 6</html>
+200,Actualidad,<html>A. Barcelona</html>,<html>B. Girona</html>,<html>C. Tarragona</html>
+200,Ingles,<html>A. Yo</html>,<html>B. Ojo</html>,<html>C. Letra i</html>
+200,Musica,<html>A. Una cuadrada</html>,<html>B. Un pulso</html>,<html>C. Una corchea</html>
+300,Literatura,<html>A. Percy Bysshe</html>,<html>B. Mary Shelley</html>,<html>C. Percy Shelley</html>
+300,Historia,<html>A. 1812</html>,<html>B. 1800</html>,<html>C. 1820</html>
+300,Geografia,<html>A. Portugal</html>,<html>B. Argelia</html>,<html>C. Marruecos</html>
+300,Actualidad,<html>A. Jerusalen</html>,<html>B. Bruselas</html>,<html>C. Pekin</html>
+300,Ingles,<html>A. on</html>,<html>B. at</html>,<html>C. in</html>
+300,Musica,<html>A. Canada</html>,<html>B. USA</html>,<html>C. Britain</html>
+400,Literatura,<html>A. La batalla de Roncevalles</html>,<html>B. Batalla de Akroinon</html>,<html>C. Batalla de Dinamarca</html>
+400,Historia,<html>A. Marco Aurelio</html>,<html>B. Caligula</html>,<html>C. Cesar Augusto</html>
+400,Geografia,<html>A. Reikiavik - Islandia</html>,<html>B. Norilsk - Rusia</html>,<html>C. Helsinki - Finlandia</html>
+400,Actualidad,<html>A. Mercedes</html>,<html>B. Ferrari</html>,<html>C. Renault</html>
+400,Ingles,<html>A. Set</html>,<html>B. Put</html>,<html>C. Lay</html>
+400,Musica,<html>A. El arte de las musas</html>,<html>B. El arte del sonido</html>,<html>C. El arte del canto</html>
+500,Literatura,<html>A. Siglo 15</html>,<html>B. Siglo 18</html>,<html>C. Siglo 16</html>
+500,Historia,<html>A. Alemania</html>,<html>B. Polonia</html>,<html>C. Austria</html>
+500,Geografia,<html>A. Entre China y Nepal</html>,<html>B. Entre India y Nepal</html>,<html>C. Entre Tibet y Nepal</html>
+500,Actualidad,<html>A. Miguel Bose</html>,<html>B. Ana Belen</html>,<html>C. Joaquin Sabina</html>
+500,Ingles,<html>A. Asegurado</html>,<html>B. Seguro</html>,<html>C. Resistencia</html>
+500,Musica,<html>A. Esferica</html>,<html>B. Superficial</html>,<html>C. Unidimensional</html>
